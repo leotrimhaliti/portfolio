@@ -1,0 +1,48 @@
+{
+  "education": [
+    {
+      "name": "Kolegji AAB",
+      "href": "https://aab-edu.net",
+      "title": "Full Stack Web Application (Angular)",
+      "logo": "/aab.png",
+      "start": "May 2023",
+      "end": "Jun 2023",
+      "description": [
+        "Completed a short professional course in Full Stack Web Application Development using Angular",
+        "Covered frontend and backend concepts, API integration, and deployment basics"
+      ],
+      "links": [
+        {
+          "name": "Certificate",
+          "href": "https://aab-edu.net", 
+          "icon": "award"
+        }
+      ]
+    },
+    {
+      "name": "Kolegji AAB",
+      "href": "https://aab-edu.net",
+      "title": "Bachelor in Software Engineering",
+      "logo": "/aab.png",
+      "start": "Oct 2022",
+      "end": "Expected Jun 2026",
+      "description": [
+        "Currently pursuing a degree in Software Engineering",
+        "Focused on Full-Stack Development",
+        "Active in academic and personal projects related to web and mobile applications"
+      ],
+      "links": [
+        {
+          "name": "Text Speed Racer",
+          "href": "https://github.com/leotrimhaliti/text-speed-racer",
+          "icon": "github"
+        },
+        {
+          "name": "🚌 Real-Time Bus Tracking App",
+          "href": "https://github.com/leotrimhaliti/ai-mobile-leotrimhaliti",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

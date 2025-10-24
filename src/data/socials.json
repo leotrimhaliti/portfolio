@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/leotrimhaliti/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/leotrimhaliti",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:leotrimhalitti@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

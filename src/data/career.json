@@ -1,0 +1,35 @@
+{
+  "career": [
+    {
+      "name": "QKUK (Main University Clinical Center of Kosovo)",
+      "href": "https://shskuk.org",
+      "title": "Software Developer (Patient Management System)",
+      "logo": "/qkuk.png",
+      "start": "Sep 2025",
+      "description": [
+        "Currently developing a Patient Management System for QKUK to streamline doctor-patient workflows",
+        "Building features for patient registration, control lists, and doctor assignment with real-time updates",
+        "Tech stack: React (Vite), Node.js"
+      ]
+    },
+    {
+      "name": "Barber Booking Website",
+      "href": "https://github.com/leotrimhaliti/barber-booking",
+      "title": "Freelance Fullstack Developer",
+      "logo": "/barber.jpg",
+      "start": "Jun 2025",
+      "description": [
+        "Developing an online booking system for a local barbershop to allow clients to reserve appointments easily",
+        "Implements admin dashboard, real-time booking management",
+        "Tech stack: React(Vite), Supabase"
+      ],
+      "links": [
+        {
+          "name": "GitHub Repository",
+          "href": "https://github.com/leotrimhaliti/barber-booking",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}
