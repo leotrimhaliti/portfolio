@@ -4,7 +4,7 @@
       "name": "Text Speed Racer",
       "description": "race your friends or randoms to see who types fastest.",
       "image": "/text-speed-racer.png",
-      "tags": ["TypeScript", "React", "Vite", "WebSocket", "AI Opponent"],
+      "tags": ["TypeScript", "React", "Vite", "WebSocket"],
       "links": [
         {
           "name": "Source",
